@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65675" started-at="2019-01-30T10:58:08Z" finished-at="2019-01-30T10:59:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65675" started-at="2019-01-30T10:58:08Z" finished-at="2019-01-30T10:59:14Z">
+      <class name="ReadExcelData.FacebookLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="setup" is-config="true" duration-ms="13434" started-at="2019-01-30T10:58:09Z" finished-at="2019-01-30T10:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Facebooklogin(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="Facebooklogin" duration-ms="4319" started-at="2019-01-30T10:58:22Z" data-provider="facebookdata" finished-at="2019-01-30T10:58:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RajaSahab]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebooklogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="tearDown" is-config="true" duration-ms="684" started-at="2019-01-30T10:58:27Z" finished-at="2019-01-30T10:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="setup" is-config="true" duration-ms="12732" started-at="2019-01-30T10:58:27Z" finished-at="2019-01-30T10:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Facebooklogin(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="Facebooklogin" duration-ms="3059" started-at="2019-01-30T10:58:40Z" data-provider="facebookdata" finished-at="2019-01-30T10:58:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebooklogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="tearDown" is-config="true" duration-ms="681" started-at="2019-01-30T10:58:43Z" finished-at="2019-01-30T10:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="setup" is-config="true" duration-ms="12465" started-at="2019-01-30T10:58:44Z" finished-at="2019-01-30T10:58:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Facebooklogin(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="Facebooklogin" duration-ms="2948" started-at="2019-01-30T10:58:56Z" data-provider="facebookdata" finished-at="2019-01-30T10:58:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebooklogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="tearDown" is-config="true" duration-ms="659" started-at="2019-01-30T10:58:59Z" finished-at="2019-01-30T10:59:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="setup" is-config="true" duration-ms="7248" started-at="2019-01-30T10:59:00Z" finished-at="2019-01-30T10:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Facebooklogin(java.lang.String, java.lang.String)[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="Facebooklogin" duration-ms="6047" started-at="2019-01-30T10:59:07Z" data-provider="facebookdata" finished-at="2019-01-30T10:59:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebooklogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ReadExcelData.FacebookLogin@e720b71]" name="tearDown" is-config="true" duration-ms="639" started-at="2019-01-30T10:59:13Z" finished-at="2019-01-30T10:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ReadExcelData.FacebookLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
